@@ -1,0 +1,4 @@
+MyWalletApp
+===========
+
+Wallet aplicaion
